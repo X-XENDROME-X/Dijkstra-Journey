@@ -45,6 +45,10 @@ To build and test the program, follow these steps:
 ## Sample Usage
 Assuming you have a graph file named `sampletextcase.txt`, you can run the program as follows:
 
+1. Clone the repository to your local machine.
+2. Compile the code using the provided Makefile.
+3. Run the program with a specified input file:
+
 ```sh
 ./dijkstra < sampletextcase.txt
 ```
