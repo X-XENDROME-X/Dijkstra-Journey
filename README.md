@@ -7,7 +7,6 @@ This project implements the single-source Dijkstra's shortest path algorithm usi
 - [Input Format](#input-format)
 - [Output Format](#output-format)
 - [Building and Testing](#building-and-testing)
-- [Sample Usage](#sample-usage)
 - [Dependencies](#dependencies)
 - [License](#license)
 
@@ -41,17 +40,6 @@ To build and test the program, follow these steps:
     ```sh
     ./dijkstra < sampletextcase.txt
     ```
-
-## Sample Usage
-Assuming you have a graph file named `sampletextcase.txt`, you can run the program as follows:
-
-1. Clone the repository to your local machine.
-2. Compile the code using the provided Makefile.
-3. Run the program with a specified input file:
-
-```sh
-./dijkstra < sampletextcase.txt
-```
 
 ## Dependencies
 
